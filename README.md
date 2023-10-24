@@ -8,11 +8,11 @@ Configure account
 Settings.json
 ```
     {
-      "Username": "email@mail.com",
-      "Password": "password"
+      "Username1": "email1@mail.com",
+      "Password1": "password1"
     },
-        {
-      "Username": "email@mail.com",
-      "Password": "password"
+   {
+      "Username2": "email2@mail.com",
+      "Password2": "password2"
     }
 
