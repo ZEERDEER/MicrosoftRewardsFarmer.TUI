@@ -1,0 +1,20 @@
+﻿{
+  "Accounts": [
+    {
+      "Username": "email@mail.com",
+      "Password": "password"
+    }
+  ],
+  "Loggers": {
+    "Files": [
+      {
+        "URI": "./Logs",
+        "Levels": [
+          "Log",
+          "Exception",
+          "Summary"
+        ]
+      }
+    ]
+  }
+}
