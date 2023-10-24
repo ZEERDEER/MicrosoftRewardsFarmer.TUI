@@ -1,4 +1,6 @@
 # Microsoft_Rewards_Farmer.TUI
+backup
+original author : Tom Olivier  
 Settings.json
 ```
     {
