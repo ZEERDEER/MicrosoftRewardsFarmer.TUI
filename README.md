@@ -1,7 +1,7 @@
 # Microsoft.Rewards.Farmer.TUI 
 Backed up by the original author **Tom Olivier** 
 
-[Download](https://github.com/ZEERDEER/Microsoft.Rewards.Farmer.TUI/releases/tag/0.10.1.0)
+[Download Releases](https://github.com/ZEERDEER/Microsoft.Rewards.Farmer.TUI/releases/tag/0.10.1.0)
 
 Is it necessary to install .NET 6.0 runtime x64
 
