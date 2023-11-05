@@ -1,11 +1,17 @@
 # Microsoft.Rewards.Farmer.TUI 
-backup 
+Backed up by the original author **Tom Olivier** 
 
-Original author : Tom Olivier  
+Is it necessary to install .NET 6.0 runtime x64
 
-Configure account 
+https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0
 
-Settings.json
+https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-6.0.24-windows-x64-installer
+
+Account Configuration Sample 
+
+Settings.json 
+
+
 ```
     {
       "Username1": "email1@mail.com",
@@ -15,4 +21,3 @@ Settings.json
       "Username2": "email2@mail.com",
       "Password2": "password2"
     }
-
