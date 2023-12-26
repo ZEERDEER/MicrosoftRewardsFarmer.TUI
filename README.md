@@ -7,7 +7,7 @@ Is it necessary to install .NET 6.0 runtime x64
 
 https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0
 
-https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-6.0.25-windows-x64-installer
+https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-6.0.25-windows-x64-installer
 
 Account Configuration Sample 
 
