@@ -23,3 +23,4 @@ Settings.json
       "Username": "email2@mail.com",
       "Password": "password2"
     }
+```
